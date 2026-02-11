@@ -96,6 +96,7 @@ IoT 개발자과정 기초 프로그래밍 언어 학습 리포지토리
     ![alt text](image-11.png)
 
     - 포커스 중인 프로젝트가 시작프로젝트로 설정됨
+
 ### C 기본 문법
 
 1. 기본 사용법
@@ -322,11 +323,26 @@ IoT 개발자과정 기초 프로그래밍 언어 학습 리포지토리
 
 ### C 중급 문법
 
-1. 사용자 정의 자료형 - 구조체
+1. 사용자 정의 자료형 - 구조체 : [확인](./Day08/Chap17-Solution/Chap17-02-app/main.c)
+    - 구조체 사용 : [확인](./Day08/Chap17-Solution/Chap17-03-app/main.c)
+    - 구조체 내 구조체 : [확인](./Day08/Chap17-Solution/Chap17-04-app/main.c)
+    - 구조체 포인터 : [확인](./Day08/Chap17-Solution/Chap17-05-app/main.c)
 
-2. 사용자 정의 자료형 - 공용체, 열거형
+2. 사용자 정의 자료형 - 공용체, 열거형 : [확인](./Day08/Chap17-Solution/Chap17-06-app/main.c)
 
 3. 파일 입출력
+    - 파일 종류 : 텍스트 파일, 바이너리(2진) 파일
+    - 바이너리 파일 : 데이터 파일, 내부적으로 0과 1로 저장된 파일. dat, exe, mp3, mp4, hwp, doc...
+
+        ![alt text](image-12.png)
+
+    - 텍스트 파일 : 사람이 읽을 수 있는 문자로 된 파일. txt, log, cmd, bat, docx, hwpx, pptx...
+
+        ![alt text](image-13.png)
+
+    - 파일 오픈 : [확인](./Day08/Chap18-Solution/Chap18-01-app/main.c)
+
+## 9일차
 
 4. 전처리, 분할 컴파일
 
