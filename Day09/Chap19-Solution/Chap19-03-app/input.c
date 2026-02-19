@@ -6,7 +6,7 @@
 
 // extern!! 외부에 있는 것을 가져와라!
 extern int count;		// main.c에 선언한 변수를 공용
-int total;		// 전역변수
+int total;				// 전역변수
 
 int input_data(void) {
 	int pos;
